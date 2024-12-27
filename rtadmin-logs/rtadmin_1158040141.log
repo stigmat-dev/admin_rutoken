@@ -1,0 +1,248 @@
+timestamp: 2024.12.27_10.27.58
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_10.28.23
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_10.29.02
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_10.29.52
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_10.30.59
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_11.18.22
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.01.53
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.05.53
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.09.36
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_12.09.52
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_12.10.09
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_12.11.04
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.13.07
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.15.31
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.31.38
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.32.00
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.32.22
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.33.38
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.36.11
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_PIN_LEN_RANGE
+status: failure
+
+timestamp: 2024.12.27_12.39.45
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.41.09
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.54.47
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_12.57.16
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_13.08.42
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_13.29.44
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+error: PKCS11: CKR_ARGUMENTS_BAD
+status: failure
+
+timestamp: 2024.12.27_14.19.39
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_14.28.50
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_14.29.18
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_14.32.13
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_14.33.48
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
+timestamp: 2024.12.27_14.35.28
+serial: 1158040141
+model: Рутокен Lite 1010
+set-user-pin
+    auth-as: so
+    new-pin: ***
+status: success
+
